@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Hsiang-Lin, a Senior iOS Software Engineer and an advocate for Test-Driven Development (TDD) and Functional Programming (FP).
+
+I believe TDD leads to faster development while maintaining product quality. No more nightmares of fixing one issue and breaking something else—it brings peace of mind. ✨
+
+Check out [leetcodeSwift](https://github.com/zip520123/leetcodeSwift) for discussions about solving algorithm problems using the Swift 🐦‍🔥 language with a clean code style.
+
+
 
 <!--
 **zip520123/zip520123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
