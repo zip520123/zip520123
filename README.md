@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Hsiang-Lin, a Senior iOS Software Engineer and an advocate for Test-Driven Development (TDD) and Functional Programming (FP).
+## Hi there
+I'm Hsiang-Lin MBCS, a Senior iOS Software Engineer and an advocate for Test-Driven Development (TDD) and Functional Programming (FP).
 
 I believe TDD leads to faster development while maintaining product quality. No more nightmares of fixing one issue and breaking something else—it brings peace of mind. ✨
 
